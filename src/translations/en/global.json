@@ -1,0 +1,172 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "service": "Service",
+        "contact": "Contact",
+        "profile": "Profile",
+        "account": "Account",
+        "dashboard": "Dashboard",
+        "logout": "Logout"
+    },
+    "homePage": {
+      "welcome": "Welcome to DELTASOFT CYBERNETIC",
+      "description": "Delivering cutting-edge IT solutions to drive your business forward. Innovating for a smarter tomorrow.",
+      "cta": "Get in Touch",
+      "aboutTitle": "About Us",
+      "aboutDescription": " DELTASOFT CYBERNETIC is a leading IT solutions provider, focused on delivering innovative and secure technologies that help businesses scale and succeed in a digital-first world. From software development to cloud and cybersecurity solutions, we offer a full range of services to meet your needs.",
+      "servicesTitle": "Our Services",
+      "whyChooseTitle": "Why Choose Us?",
+      "whyChooseDescription": "We offer tailored solutions and an expert team to help your business succeed.",
+      "softwareDevelopment": "Software Development",
+      "softwareDevelopmentDescription": "Creating custom software solutions that drive your business forward.",
+      "cybersecurity": "Cybersecurity",
+      "cybersecurityDescription": "Providing robust security measures to protect your business data.",
+      "cloudSolutions": "Cloud Solutions",
+      "cloudSolutionsDescription": "Helping businesses scale with reliable cloud infrastructure.",
+      "consulting": "Consulting",
+      "consultingDescription": "Offering expert advice and strategies to enhance your business operations.",
+      "expertTeam": "Expert Team",
+      "expertTeamDescription": "Our team consists of experienced professionals dedicated to delivering top-tier solutions.",
+      "tailoredSolutions": "Tailored Solutions",
+      "tailoredSolutionsDescription": "We provide solutions tailored to meet the unique needs of your business.",
+      "commitmentToQuality": "Commitment to Quality",
+      "commitmentToQualityDescription": "We prioritize quality and ensure our solutions meet the highest standards.",
+      "testimonialsTitle": "What Our Clients Say",
+      "testimonial1": "DELTASOFT transformed our business with their cutting-edge software solutions. We couldn't be happier with the results!",
+      "testimonial1Author": "John Doe, CEO - TechCorp",
+      "testimonial2": "Their cybersecurity services gave us peace of mind knowing our data and infrastructure were secure.",
+      "testimonial2Author": "Jane Smith, CTO - SecureTech",
+      "ctaTitle": "Ready to Start Your Digital Transformation?"
+    },
+    "aboutPage": {
+        "title": "About DELTASOFT CYBERNETIC",
+        "subtitle": "Innovation Meets Excellence in the Digital World",
+        "whoWeAre": "Who We Are",
+        "introduction": "At DELTASOFT CYBERNETIC, we specialize in crafting cutting-edge IT solutions for businesses of all sizes. Founded on the principles of innovation, integrity, and excellence, our team is dedicated to helping organizations achieve their digital transformation goals. With expertise in advanced technologies, we deliver scalable, secure, and customized solutions to meet our clients' unique needs.",
+        "missionTitle": "Our Mission",
+        "missionDescription": "To empower businesses with innovative IT solutions that drive growth, enhance efficiency, and ensure long-term success. We aim to create a smarter, more connected world by leveraging the latest advancements in technology.",
+        "visionTitle": "Our Vision",
+        "visionDescription": "To be a global leader in IT services and solutions, fostering innovation and delivering unparalleled value to our clients and partners. At DELTASOFT CYBERNETIC, we envision a future where technology seamlessly integrates with life.",
+        "coreValuesTitle": "Our Core Values",
+        "valueInnovation": "Innovation",
+        "valueInnovationDescription": "We thrive on developing creative solutions to modern problems.",
+        "valueIntegrity": "Integrity",
+        "valueIntegrityDescription": "Transparency and honesty guide every decision we make.",
+        "valueExcellence": "Excellence",
+        "valueExcellenceDescription": "We strive for excellence in everything we do, from design to delivery.",
+        "valueCollaboration": "Collaboration",
+        "valueCollaborationDescription": "We believe in the power of teamwork and building long-lasting relationships.",
+        "ctaTitle": "Ready to Partner with Us?",
+        "ctaDescription": "Let's work together to turn your ideas into reality. Contact us today to learn more about how DELTASOFT CYBERNETIC can transform your business."
+      },
+
+      "contact": {
+        "title": "Contact Us",
+        "getInTouch": "Get in Touch",
+        "contactDetails": "Contact Details",
+        "phone": "Phone",
+        "email": "Email",
+        "address": "Address",
+        "followUs": "Follow Us",
+        "sendMessage": "Send a Message",
+        "name": "Your Name",
+        "phoneForm": "Your Phone",
+        "emailForm": "Your Email",
+        "errorOccurred": "There was an error sending the message!",
+        "category": "Select Your Category",
+        "message": "Your Message",
+        "sendMessageButton": "Send Message",
+        "ourLocation": "Our Location",
+        "socialMedia": {
+          "telegram": "Telegram",
+          "instagram": "Instagram",
+          "linkedin": "LinkedIn",
+          "facebook": "Facebook"
+        },
+       "website": "Website Development",
+        "app": "Mobile App Development",
+        "seo": "SEO Optimization",
+        "cloud": "Cloud Services",
+        "cybersecurity": "Cybersecurity",
+        "other": "Other IT Services",
+        "mapDescription": "Embed Google Map iframe"
+      },
+
+      "service": {
+        "title": "Our Services",
+        "description": "DELTASOFT CYBERNETIC provides a wide range of IT services to help businesses grow and succeed in the digital world. Explore our services below:",
+        "serviceCard": {
+            "features": "Features",
+            "feature_1": "Customized solutions tailored to your business",
+            "feature_2": "Cutting-edge technologies and best practices",
+            "feature_3": "Expert team of professionals",
+            "feature_4": "End-to-end support and maintenance",
+            "back_to_services": "Ordering services"
+        },
+        "software_development": {
+            "title": "Software Development",
+            "description": "We build custom software solutions for all industries, from enterprise-level applications to innovative startups. Our software is tailored to meet your specific business needs and ensures scalability, security, and performance."
+          },
+          "cyber_security": {
+            "title": "Cyber Security",
+            "description": "Protect your business from cyber threats with our advanced security solutions. We provide proactive monitoring, risk management, and incident response strategies to keep your data safe and secure."
+          },
+          "ai_machine_learning": {
+            "title": "AI & Machine Learning",
+            "description": "Leverage AI to enhance business processes and decision-making. Our machine learning solutions help you predict trends, automate tasks, and improve customer experiences with data-driven insights."
+          },
+          "cloud_services": {
+            "title": "Cloud Services",
+            "description": "Get scalable and flexible cloud solutions tailored to your needs. Whether it's hosting, infrastructure management, or cloud-based software, we help you make the most of cloud technology to improve efficiency and reduce costs."
+          },
+          "mobile_app_development": {
+            "title": "Mobile App Development",
+            "description": "Develop high-quality mobile apps for Android and iOS platforms. Our apps are designed with a focus on user experience, performance, and scalability to meet your business requirements."
+          },
+          "it_consultancy": {
+            "title": "IT Consultancy",
+            "description": "Expert advice to help your business navigate the digital transformation. We offer strategic planning, technology implementation, and ongoing support to optimize your IT infrastructure and align with your business goals."
+          },
+          "iot_solutions": {
+            "title": "IoT Solutions",
+            "description": "Innovative IoT solutions to connect devices and improve business operations. We help you develop IoT systems that collect data, automate processes, and provide real-time insights for smarter decision-making."
+          },
+          "blockchain_development": {
+            "title": "Blockchain Development",
+            "description": "Create decentralized apps and implement blockchain technology. We provide custom blockchain solutions for secure transactions, data integrity, and transparency in various industries, including finance and supply chain."
+          },
+          "ui_ux_design": {
+            "title": "UI/UX Design",
+            "description": "Create user-friendly and aesthetically pleasing designs for digital platforms. Our design process focuses on delivering seamless user experiences and visually engaging interfaces for web and mobile applications."
+          },
+          "digital_marketing": {
+            "title": "Digital Marketing",
+            "description": "Boost your business with SEO, SEM, SMM, and other marketing strategies. We help you build a strong online presence, drive traffic, and convert leads into customers through targeted digital marketing campaigns."
+          },
+          "special_bots": {
+            "title": "Special Bots",
+            "description": "Custom bot development service is essential to grow and enhance the efficiency of your business. We help you in creating bots for customer support, data processing, lead generation, and more to automate repetitive tasks and improve customer engagement."
+          }
+      },
+
+
+
+
+
+      "footer": {
+        "companyName": "DELTASOFT CYBERNETIC",
+        "companyDescription": "Providing innovative IT solutions for businesses worldwide. Let's transform your digital presence together!",
+        "quickLinks": "Quick Links",
+        "home": "Home",
+        "services": "Services",
+        "about": "About Us",
+        "contact": "Contact Us",
+        "followUs": "Follow Us",
+        "contactUs": "Contact Us",
+        "email": "Email",
+        "phone": "Phone",
+        "allRightsReserved": "All rights reserved."
+      }
+  }
+  
