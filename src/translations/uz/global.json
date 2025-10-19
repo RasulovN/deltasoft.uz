@@ -1,0 +1,171 @@
+{
+    "navbar": {
+        "home": "Asosiy sahifa",
+        "about": "Haqida",
+        "service": "Xizmatlar",
+        "contact": "Aloqa",
+        "profile": "Profil",
+        "account": "Hisob",
+        "dashboard": "Boshqaruv paneli",
+        "logout": "Chiqish"
+    },
+
+    "homePage": {
+      "welcome": "DELTASOFT CYBERNETIC-ga xush kelibsiz",
+      "description": "Biznesingizni rivojlantirish uchun zamonaviy IT yechimlarini taqdim etamiz. Ertangi kun uchun innovatsiyalar.",
+      "cta": "Bilan bog'laning",
+      "heroDescription": "Biznesingizni muvaffaqiyatli qilish uchun innovatsion IT yechimlarini taqdim etamiz.",
+      "aboutTitle": "Biz haqimizda",
+      "aboutDescription": "DELTASOFT CYBERNETIC — ilg'or va xavfsiz texnologiyalarni taqdim etishga qaratilgan etakchi IT yechimlari provayderi.",
+      "servicesTitle": "Xizmatlarimiz",
+      "softwareDevelopment": "Dasturiy ta'minot ishlab chiqish",
+      "softwareDevelopmentDescription": "Biznesingizni rivojlantirish uchun moslashtirilgan dasturiy ta'minot yechimlarini yaratish.",
+      "cybersecurity": "Kiberxavfsizlik",
+      "cybersecurityDescription": "Biznesingiz ma'lumotlarini himoya qilish uchun kuchli xavfsizlik choralari.",
+      "cloudSolutions": "Bulutli yechimlar",
+      "cloudSolutionsDescription": "Ishbilarmonlarni ishonchli bulut infratuzilmasi yordamida kengaytirish.",
+      "consulting": "Konsalting",
+      "consultingDescription": "Biznes jarayonlaringizni yaxshilash uchun ekspert maslahatlari va strategiyalarni taqdim etish.",
+      "whyChooseTitle": "Nima uchun bizni tanlash kerak?",
+      "whyChooseDescription": "Biz sizning biznesingizni muvaffaqiyatli qilish uchun maxsus yechimlar va ekspert jamoasini taklif etamiz.",
+      "expertTeam": "Ekspert jamoasi",
+      "expertTeamDescription": "Bizning jamoamiz yuqori sifatli yechimlarni taqdim etishga bag'ishlangan tajribali mutaxassislardan iborat.",
+      "tailoredSolutions": "Maxsus yechimlar",
+      "tailoredSolutionsDescription": "Bizning yechimlarimiz biznesingizning o'ziga xos ehtiyojlariga moslashtirilgan.",
+      "commitmentToQuality": "Sifatga sodiqlik",
+      "commitmentToQualityDescription": "Biz sifatni ustuvor qo'yamiz va yechimlarimiz eng yuqori standartlarga mos kelishini ta'minlaymiz.",
+      "testimonialsTitle": "Mijozlarimiz nima deydi",
+      "testimonial1": "DELTASOFT bizning biznesimizni zamonaviy dasturiy yechimlar bilan o'zgartirdi. Biz natijalardan juda mamnunmiz!",
+      "testimonial1Author": "John Doe, CEO - TechCorp",
+      "testimonial2": "Ularning kiberxavfsizlik xizmatlari bizning ma'lumotlarimiz va infratuzilmamiz xavfsizligini bilib, tinchlik berdi.",
+      "testimonial2Author": "Jane Smith, CTO - SecureTech",
+      "ctaTitle": "Raqamli transformatsiyangizni boshlashga tayyormisiz?"
+    },
+        "aboutPage": {
+          "title": "DELTASOFT CYBERNETIC Haqida",
+          "subtitle": "Raqamli Dunyo'da Innovatsiya va A'lo Daraja",
+          "whoWeAre": "Biz Kimmiz",
+          "introduction": "DELTASOFT CYBERNETIC kompaniyasi kichik va yirik bizneslar uchun zamonaviy IT yechimlari yaratishga ixtisoslashgan. Innovatsiya, halollik va a'lo daraja tamoyillariga asoslanib, bizning jamoamiz tashkilotlarga raqamli transformatsiya maqsadlariga erishishda yordam beradi. Zamonaviy texnologiyalar bo'yicha chuqur bilimga ega bo'lib, biz mijozlarimizning o'ziga xos ehtiyojlariga moslashtirilgan yechimlar taqdim etamiz.",
+          "missionTitle": "Bizning Missiyamiz",
+          "missionDescription": "Bizneslarni innovatsion IT yechimlari bilan quvvatlash, o'sish, samaradorlikni oshirish va uzoq muddatli muvaffaqiyatni ta'minlash. Biz texnologiyaning eng so'nggi yutuqlaridan foydalangan holda yanada aqlli, ulangan dunyo yaratishga intilamiz.",
+          "visionTitle": "Bizning Maqsadimiz",
+          "visionDescription": "Dunyo miqyosida IT xizmatlari va yechimlarida yetakchi bo'lish, innovatsiyani rivojlantirish va mijozlarimiz va hamkorlarimizga tengsiz qiymat taqdim etish. DELTASOFT CYBERNETICda biz texnologiyaning hayot bilan birlashadigan kelajagini tasavvur qilamiz.",
+          "coreValuesTitle": "Bizning Asosiy Qiymatimiz",
+          "valueInnovation": "Innovatsiya",
+          "valueInnovationDescription": "Zamonaviy muammolarga ijodiy yechimlar ishlab chiqishda oldinga boramiz.",
+          "valueIntegrity": "Halollik",
+          "valueIntegrityDescription": "Har bir qarorimizda oshkoralik va halollikni qo'llab-quvvatlaymiz.",
+          "valueExcellence": "A'lo Daraja",
+          "valueExcellenceDescription": "Har bir ishimizda mukammallikka intilamiz, dizayndan tortib, yetkazib berishga qadar.",
+          "valueCollaboration": "Hamkorlik",
+          "valueCollaborationDescription": "Biz jamoaviy ish va uzoq muddatli munosabatlarni yaratish qudratiga ishonamiz.",
+          "ctaTitle": "Biz bilan Hamkorlikka Tayyor Misiz?",
+          "ctaDescription": "Keling, birgalikda fikrlaringizni haqiqatga aylantiraylik. DELTASOFT CYBERNETIC sizning biznesingizni qanday o'zgartirishini bilib olish uchun biz bilan bog'laning."
+        },
+        
+        "contact": {
+            "title": "Biz bilan bog'lanish",
+            "getInTouch": "Biz bilan bog'lanish",
+            "contactDetails": "Aloqa ma'lumotlari",
+            "phone": "Telefon",
+            "email": "Elektron pochta",
+            "address": "Manzil",
+            "followUs": "Bizni kuzating",
+            "sendMessage": "Xabar yuborish",
+            "errorOccurred": "Xabar yuborishda xatolik yuz berdi!",
+            "name": "Ismingiz",
+            "phoneForm": "Telefon raqamingiz",
+            "emailForm": "Email manzilingiz",
+            "category": "Kategoriyani tanlang",
+            "message": "Xabaringiz",
+            "sendMessageButton": "Xabar yuborish",
+            "ourLocation": "Bizning joylashuvimiz",
+            "socialMedia": {
+            "telegram": "Telegram",
+            "instagram": "Instagram",
+            "linkedin": "LinkedIn",
+            "facebook": "Facebook"
+        },
+           "website": "Veb saytni rivojlantirish",
+            "app": "Mobil ilova ishlab chiqish",
+            "seo": "SEO optimizatsiyasi",
+            "cloud": "Bulutli xizmatlar",
+            "cybersecurity": "Kiberxavfsizlik",
+            "other": "Boshqa IT xizmatlari",
+            "mapDescription": "Google Map iframe joylashtirish"
+        },
+        "service": {
+            "title": "Bizning xizmatlarimiz",
+            "description": "DELTASOFT CYBERNETIC kompaniyalarning raqamli dunyoda rivojlanishi va muvaffaqiyati uchun keng ko‘lamli IT xizmatlarini taqdim etadi. Quyida bizning xizmatlarimiz bilan tanishing:",
+            "serviceCard": {
+                "features": "Xususiyatlar",
+                "feature_1": "Sizning biznesingizga moslashtirilgan yechimlar",
+                "feature_2": "Eng so'nggi texnologiyalar va eng yaxshi amaliyotlar",
+                "feature_3": "Mutaxassislar jamoasi",
+                "feature_4": "To'liq qo'llab-quvvatlash va xizmat ko'rsatish",
+                "back_to_services": "Xizmatlarga buyurtma berish"
+            },
+            "software_development": {
+                "title": "Dasturiy Ta'minot Ishlab Chiqish",
+                "description": "Biz barcha sohalar uchun maxsus dasturiy ta'minot yechimlarini yaratamiz, katta kompaniyalar uchun dasturdan innovatsion startaplar uchun dasturga qadar. Bizning dasturlarimiz biznes ehtiyojlaringizga moslashtirilgan bo'lib, kengaytiriladigan, xavfsiz va samarali bo'lishini ta'minlaydi."
+              },
+              "cyber_security": {
+                "title": "Kiber Xavfsizlik",
+                "description": "Bizning ilg'or xavfsizlik yechimlarimiz bilan biznesingizni kiber tahdidlardan himoya qiling. Biz sizning ma'lumotlaringizni xavfsiz va himoyalangan holda saqlash uchun oldindan monitoring qilish, xavflarni boshqarish va hodisalarga javob strategiyalarini taqdim etamiz."
+              },
+              "ai_machine_learning": {
+                "title": "AI va Mashinaviy O'qitish",
+                "description": "AI yordamida biznes jarayonlarini va qaror qabul qilishni yaxshilang. Bizning mashinaviy o'qitish yechimlarimiz sizga tendentsiyalarni taxmin qilish, vazifalarni avtomatlashtirish va ma'lumotlarga asoslangan qarorlar qabul qilishni yaxshilashga yordam beradi."
+              },
+              "cloud_services": {
+                "title": "Bulut Xizmatlari",
+                "description": "Sizning ehtiyojlaringizga moslashtirilgan kengaytiriladigan va moslashuvchan bulut yechimlarini oling. Hosting, infratuzilma boshqaruvi yoki bulut asosidagi dasturdan qat'i nazar, biz sizga bulut texnologiyasidan samarali foydalanishga yordam beramiz."
+              },
+              "mobile_app_development": {
+                "title": "Mobil Dastur Ishlab Chiqish",
+                "description": "Android va iOS platformalariga mo'ljallangan yuqori sifatli mobil dasturlarni ishlab chiqamiz. Bizning dasturlarimiz foydalanuvchi tajribasi, samaradorlik va kengaytirilish imkoniyatlariga e'tibor qaratilgan bo'lib, biznes talablarga mos keladi."
+              },
+              "it_consultancy": {
+                "title": "IT Konsalting",
+                "description": "Biznesingizni raqamli transformatsiya jarayonida qo'llab-quvvatlash uchun mutaxassis maslahatlari. Biz IT infratuzilmasini optimallashtirish va biznes maqsadlaringizga moslashish uchun strategik rejalashtirish, texnologiya joriy etish va doimiy qo'llab-quvvatlashni taqdim etamiz."
+              },
+              "iot_solutions": {
+                "title": "IoT Yechimlari",
+                "description": "Qurilmalarni ulash va biznes jarayonlarini yaxshilash uchun innovatsion IoT yechimlari. Biz sizga IoT tizimlarini ishlab chiqishda yordam beramiz, ular ma'lumotlarni yig'adi, jarayonlarni avtomatlashtiradi va aqlli qarorlar qabul qilish uchun real vaqt ma'lumotlarini taqdim etadi."
+              },
+              "blockchain_development": {
+                "title": "Blockchain Ishlab Chiqish",
+                "description": "Markazsizlashtirilgan ilovalarni yaratish va blockchain texnologiyasini joriy etish. Biz xavfsiz tranzaksiyalar, ma'lumotlar yaxlitligi va shaffoflikni ta'minlaydigan maxsus blockchain yechimlarini taqdim etamiz, shu jumladan moliya va yetkazib berish zanjiri sohalarida."
+              },
+              "ui_ux_design": {
+                "title": "UI/UX Dizayn",
+                "description": "Raqamli platformalar uchun foydalanuvchilarga qulay va estetik jihatdan jozibador dizaynlarni yarating. Bizning dizayn jarayonimiz veb va mobil dasturlar uchun mukammal foydalanuvchi tajribasini va vizual jihatdan qiziqarli interfeyslarni taqdim etishga qaratilgan."
+              },
+              "digital_marketing": {
+                "title": "Raqamli Marketing",
+                "description": "SEO, SEM, SMM va boshqa marketing strategiyalari orqali biznesingizni rivojlantiring. Biz sizga kuchli onlayn mavjudlikni yaratishga, trafikni oshirishga va maqsadli raqamli marketing kampaniyalari orqali mijozlarni jalb qilishga yordam beramiz."
+              },
+              "special_bots": {
+                "title": "Maxsus Botlar",
+                "description": "Maxsus bot ishlab chiqish xizmati biznesingizning samaradorligini oshirish va o'sishini ta'minlash uchun zarur. Biz sizga mijozlarga yordam, ma'lumotlarni qayta ishlash, lead generatsiya va boshqa vazifalarni avtomatlashtirishga yordam beradigan botlar yaratishda yordam beramiz."
+              }
+          },    
+
+
+        "footer": {
+            "companyName": "DELTASOFT KIBERNETIKASI",
+            "companyDescription": "Dunyodagi bizneslar uchun innovatsion IT echimlarini taqdim etamiz. Keling, raqamli ishtirokingizni birga o'zgartiraylik!",
+            "quickLinks": "Tezkor havolalar",
+            "home": "Bosh sahifa",
+            "services": "Xizmatlar",
+            "about": "Haqqimizda",
+            "contact": "Aloqa",
+            "followUs": "Bizni kuzating",
+            "contactUs": "Biz bilan bog'laning",
+            "email": "Elektron pochta",
+            "phone": "Telefon",
+            "allRightsReserved": "Barcha huquqlar himoyalangan."
+          }
+      
+  }
+  
